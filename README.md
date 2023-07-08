@@ -432,6 +432,9 @@ Select a principal
 <p>
 
 Congratulations, You have now successfully installed and setup osTicket!
+![image](https://github.com/shawnlynaraja/osticket-prereqs/assets/138860791/980705d6-922b-4353-a07a-f9609131ff3f)
+
+
 Browse to your help desk login page: http://localhost/osTicket/scp/login.php (This is for the Admin log-in & do admin things.)
 
 
